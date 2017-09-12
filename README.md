@@ -1,3 +1,4 @@
 # python-projects
 
-This repository contains a variety of python projets
+This repository contains multiple projects:
+  - Image processing (removing noise from images, coloring images)
